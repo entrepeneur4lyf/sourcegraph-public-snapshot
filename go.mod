@@ -394,7 +394,7 @@ require (
 	github.com/erikgeiser/coninput v0.0.0-20211004153227-1c3628e74d0f // indirect
 	github.com/evanphx/json-patch/v5 v5.8.0 // indirect
 	github.com/fullstorydev/grpcurl v1.8.7 // indirect
-	github.com/go-chi/chi/v5 v5.0.10 // indirect
+	github.com/go-chi/chi/v5 v5.2.2 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/go-sql-driver/mysql v1.8.1 // indirect
