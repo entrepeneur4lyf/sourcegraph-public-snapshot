@@ -1,8 +1,6 @@
 module progress-bot
 
-go 1.21
-
-toolchain go1.22.4
+go 1.23.0
 
 require (
 	cloud.google.com/go/storage v1.40.0
@@ -45,7 +43,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.25.0 // indirect
 	golang.org/x/crypto v0.22.0 // indirect
 	golang.org/x/net v0.24.0 // indirect
-	golang.org/x/oauth2 v0.19.0 // indirect
+	golang.org/x/oauth2 v0.27.0 // indirect
 	golang.org/x/sync v0.7.0 // indirect
 	golang.org/x/sys v0.19.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
