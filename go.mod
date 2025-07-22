@@ -261,8 +261,8 @@ require (
 	connectrpc.com/otelconnect v0.7.0
 	dario.cat/mergo v1.0.0
 	github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai v0.5.0
-	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.9.2
-	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.4.0
+	github.com/Azure/azure-sdk-for-go/sdk/azcore v1.11.1
+	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.6.0
 	github.com/Masterminds/semver/v3 v3.2.1
 	github.com/aws/constructs-go/constructs/v10 v10.3.0
 	github.com/aws/jsii-runtime-go v1.98.0
@@ -349,8 +349,8 @@ require (
 	cloud.google.com/go/longrunning v0.5.6 // indirect
 	cloud.google.com/go/trace v1.10.6 // indirect
 	filippo.io/edwards25519 v1.1.0 // indirect
-	github.com/Azure/azure-sdk-for-go/sdk/internal v1.5.2 // indirect
-	github.com/AzureAD/microsoft-authentication-library-for-go v1.1.1 // indirect
+	github.com/Azure/azure-sdk-for-go/sdk/internal v1.8.0 // indirect
+	github.com/AzureAD/microsoft-authentication-library-for-go v1.2.2 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/detectors/gcp v1.23.0 // indirect
 	github.com/GoogleCloudPlatform/opentelemetry-operations-go/internal/resourcemapping v0.48.0 // indirect
 	github.com/Masterminds/squirrel v1.5.4 // indirect
@@ -657,7 +657,7 @@ require (
 	github.com/oklog/ulid v1.3.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.2.22
-	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8
+	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pkg/profile v1.7.0 // indirect
 	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
