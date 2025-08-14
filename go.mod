@@ -1,6 +1,6 @@
 module github.com/sourcegraph/sourcegraph
 
-go 1.22.4
+go 1.23.0
 
 // Permanent replace directives
 // ============================
@@ -123,7 +123,7 @@ require (
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/gomodule/oauth1 v0.2.0
 	github.com/gomodule/redigo v2.0.0+incompatible
-	github.com/google/go-cmp v0.6.0
+	github.com/google/go-cmp v0.7.0
 	github.com/google/go-querystring v1.1.0
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/context v1.1.1
@@ -188,7 +188,7 @@ require (
 	github.com/sourcegraph/log v0.0.0-20240515122000-be5f7eea69b1
 	github.com/sourcegraph/run v0.12.0
 	github.com/sourcegraph/sourcegraph/dev/ci/images v0.0.0-20220203145655-4d2a39d3038a
-	github.com/stretchr/testify v1.9.0
+	github.com/stretchr/testify v1.10.0
 	github.com/temoto/robotstxt v1.1.2
 	github.com/throttled/throttled/v2 v2.12.0
 	github.com/tidwall/gjson v1.17.1
@@ -213,16 +213,16 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.52.0
 	go.opentelemetry.io/contrib/propagators/jaeger v1.27.0
 	go.opentelemetry.io/contrib/propagators/ot v1.27.0
-	go.opentelemetry.io/otel v1.27.0
+	go.opentelemetry.io/otel v1.37.0
 	go.opentelemetry.io/otel/bridge/opentracing v1.22.0 // indirect
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.27.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.27.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracehttp v1.27.0
-	go.opentelemetry.io/otel/metric v1.27.0
+	go.opentelemetry.io/otel/metric v1.37.0
 	go.opentelemetry.io/otel/sdk v1.27.0
 	go.opentelemetry.io/otel/sdk/metric v1.27.0
-	go.opentelemetry.io/otel/trace v1.27.0
+	go.opentelemetry.io/otel/trace v1.37.0
 	go.opentelemetry.io/proto/otlp v1.2.0 // indirect
 	go.uber.org/atomic v1.11.0
 	go.uber.org/automaxprocs v1.5.2
@@ -435,6 +435,7 @@ require (
 	github.com/mitchellh/go-homedir v1.1.0 // indirect
 	github.com/moby/docker-image-spec v1.3.1 // indirect
 	github.com/moby/sys/mountinfo v0.6.2 // indirect
+	github.com/moby/sys/userns v0.1.0 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/mpvl/unique v0.0.0-20150818121801-cbe035fff7de // indirect
 	github.com/muesli/ansi v0.0.0-20230316100256-276c6243b2f6 // indirect
@@ -476,6 +477,7 @@ require (
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	github.com/zeebo/xxh3 v1.0.2 // indirect
 	github.com/zenazn/goji v1.0.1 // indirect
+	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/collector/config/configauth v0.103.0 // indirect
 	go.opentelemetry.io/collector/config/configcompression v1.10.0 // indirect
 	go.opentelemetry.io/collector/config/configgrpc v0.103.0 // indirect
@@ -560,7 +562,7 @@ require (
 	github.com/djherbis/buffer v1.2.0 // indirect
 	github.com/djherbis/nio/v3 v3.0.1 // indirect
 	github.com/dlclark/regexp2 v1.10.0 // indirect
-	github.com/docker/docker v26.0.2+incompatible // indirect
+	github.com/docker/docker v28.0.0+incompatible // indirect
 	github.com/docker/go-connections v0.5.0 // indirect
 	github.com/docker/go-units v0.5.0 // indirect
 	github.com/dustin/go-humanize v1.0.1
@@ -579,7 +581,7 @@ require (
 	github.com/go-git/go-billy/v5 v5.5.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
-	github.com/go-logr/logr v1.4.2
+	github.com/go-logr/logr v1.4.3
 	github.com/go-logr/stdr v1.2.2
 	github.com/go-openapi/analysis v0.22.2 // indirect
 	github.com/go-openapi/errors v0.21.0 // indirect
@@ -668,7 +670,7 @@ require (
 	github.com/pseudomuto/protoc-gen-doc v1.5.1
 	github.com/pseudomuto/protokit v0.2.1 // indirect
 	github.com/rivo/uniseg v0.4.7 // indirect
-	github.com/rogpeppe/go-internal v1.12.0 // indirect
+	github.com/rogpeppe/go-internal v1.13.1 // indirect
 	github.com/rs/cors v1.11.0 // indirect
 	github.com/rs/xid v1.5.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
