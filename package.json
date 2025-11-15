@@ -368,7 +368,7 @@
     "iterare": "^1.2.1",
     "js-base64": "^3.7.2",
     "js-cookie": "^2.2.1",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "jsonc-parser": "^3.0.0",
     "linguist-languages": "^7.14.0",
     "linkifyjs": "^4.1.0",
