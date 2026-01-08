@@ -74,7 +74,7 @@
     "@pollyjs/adapter": "^5.0.0",
     "@pollyjs/core": "^5.1.0",
     "@pollyjs/persister-fs": "^5.0.0",
-    "@remix-run/server-runtime": "^1.17.0",
+    "@remix-run/server-runtime": "^2.17.3",
     "@sentry/cli": "^1.74.4",
     "@sentry/esbuild-plugin": "^2.7.1",
     "@slack/web-api": "^5.15.0",
